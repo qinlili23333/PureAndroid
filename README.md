@@ -1,5 +1,7 @@
 # 纯净 Android 公约v0.1   
   
+[申请加入公约][]  
+  
 ## 0x0 总章  
 0.纯净 Android 公约旨在规范（而非限制）Android app 开发，改善 Android 生态环境和用户体验。  
 1.纯净 Android 公约为开发者自愿加入，开发者可为其一个或多个 app 加入，也可在加入后随时选择退出。  
@@ -60,6 +62,7 @@
 5.对于除了游戏以外的 app ，建议支持分屏。  
 
 
+[申请加入公约]: https://github.com/qinlili23333/PureAndroid/blob/master/HowToApply.md
 
 
 

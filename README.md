@@ -1,6 +1,7 @@
 # 纯净 Android 公约 v0.1   
   
 [申请加入公约][]  
+[公约成员][]  
 [开发者Wiki][]  
 [文章列表][]  
   
@@ -65,6 +66,7 @@
 
 
 [申请加入公约]: HowToApply.md
+[公约成员]: ApprovedList.md
 [开发者Wiki]: https://github.com/qinlili23333/PureAndroid/wiki
 [文章列表]: article/list.md
 

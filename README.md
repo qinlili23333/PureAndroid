@@ -62,7 +62,7 @@
 5.对于除了游戏以外的 app ，建议支持分屏。  
 
 
-[申请加入公约]: https://github.com/qinlili23333/PureAndroid/blob/master/HowToApply.md
+[申请加入公约]: HowToApply.md
 
 
 

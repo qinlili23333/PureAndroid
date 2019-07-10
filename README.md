@@ -1,6 +1,7 @@
 # 纯净 Android 公约v0.1   
   
 [申请加入公约][]  
+[开发者Wiki][]  
   
 ## 0x0 总章  
 0.纯净 Android 公约旨在规范（而非限制）Android app 开发，改善 Android 生态环境和用户体验。  
@@ -63,6 +64,6 @@
 
 
 [申请加入公约]: HowToApply.md
-
+[开发者Wiki]: https://github.com/qinlili23333/PureAndroid/wiki
 
 

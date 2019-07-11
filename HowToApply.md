@@ -17,10 +17,11 @@
 ### 0x1 如何提交申请  
 * [新建一个 issue][] 并填写上述信息。  
 或
-* 加入 QQ 群 768622986 并提交上述信息。
+* [加入 QQ 群 768622986] 并提交上述信息。
 
 
 
 
 
 [新建一个 issue]: https://github.com/qinlili23333/PureAndroid/issues
+[加入 QQ 群 768622986]: https://qm.qq.com/cgi-bin/qm/qr?k=DLyzMNvSZd_ZInVJQ4ZdeoqyamXMTEfz&authKey=Stpq8ZDjdYAwrC09rBjj4q7YWxg%2B6aBMaaBfyP6%2FEH6ugOp5iuS0s0LOsWMKmKRZ

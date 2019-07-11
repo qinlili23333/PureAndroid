@@ -15,6 +15,12 @@
 3. 如果是开源或部分开源项目，请提供源码仓库。
   
 ### 0x1 如何提交申请  
-* 新建一个 issue 并填写上述信息。
+* [新建一个 issue][] 并填写上述信息。  
 或
 * 加入 QQ 群 768622986 并提交上述信息。
+
+
+
+
+
+[新建一个 issue]: https://github.com/qinlili23333/PureAndroid/issues

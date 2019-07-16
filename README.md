@@ -3,7 +3,7 @@
 #### 公约仍处于初步阶段，欢迎提交各种修改建议。（建议直接使用 Pull request 提交）
   
 [申请加入公约][] | [公约成员][] | [开发者Wiki][] | [文章列表][] | [SDK黑名单][]  
-[公约官方 App（亦为公约范例）][]  
+[公约官方 App（亦为公约范例）][] | [琴梨梨的小站][]  
   
 ## 0x0 总章  
 0. 纯净 Android 公约旨在规范（而非限制）Android app 开发，改善 Android 生态环境和用户体验。  
@@ -86,3 +86,4 @@
 [文章列表]: article/list.md
 [SDK黑名单]: SDKblacklist.md
 [公约官方 App（亦为公约范例）]: https://github.com/qinlili23333/PureAndroid/releases/tag/Apk
+[琴梨梨的小站]: https://github.qinlili.bid

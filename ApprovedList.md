@@ -10,4 +10,4 @@
 
 
 
-[Hextris-琴梨梨-qinlili.Hextris]: https://github.com/qinlili23333/QinliliArticles/releases/download/AndroidAPP/Hextris.apk
+[Hextris-琴梨梨-qinlili.Hextris]: https://github.com/qinlili23333/QinliliArticles/releases/tag/Hextris

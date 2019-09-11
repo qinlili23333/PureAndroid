@@ -87,4 +87,4 @@
 [文章列表]: article/list.md
 [SDK黑名单]: SDKblacklist.md
 [公约官方 App（亦为公约范例）]: https://github.com/qinlili23333/PureAndroid/releases/tag/Apk
-[琴梨梨的小站]: https://github.qinlili.bid
+[琴梨梨的小站]: https://qinlili.bid

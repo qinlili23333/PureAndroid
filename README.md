@@ -1,6 +1,6 @@
 # 纯净 Android 公约 V0.9
   
-#### 公约仍处于初步阶段,欢迎[PR](Pull-requests)提交修改或在[Issues](Issues)提交建议
+#### 公约仍处于初步阶段,欢迎[PR](https://github.com/qinlili23333/PureAndroid/pulls)提交修改或在[Issues](https://github.com/qinlili23333/PureAndroid/issues)提交建议
 #### 官方app已更新！  
   
 [申请加入公约](HowToApply.md) | [公约成员](ApprovedList.md) | [Wiki](https://github.com/qinlili23333/PureAndroid/wiki) | [文章列表](article/list.md) | [SDK黑名单](SDKblacklist.md)  
@@ -16,11 +16,11 @@
   
 ## 0x1 项目主体
 - 1. 至少设置28的 target sdk(通过逆向修改的原作者不再维护的App可放宽至23).  
-- 2. 如果App存在 `native lib`,必须提供 64 位 `lib`.
+- 2. 如果App存在`native lib`,必须提供 64 位 `lib`.
 - 3. 安装包不得存在任何影响性能的安全措施
 - 4. 安装包必须已经`对齐`**(zipalign)**.
-- 5. 大于1M的安装包使用 v2 或 v3 签名.
-- 6. 安装包的图标应适配自适应图标.  
+- 5. 大于1M的安装包使用`v2`或`v3`签名.
+- 6. 安装包的图标应适配自适应图标.
 - 7. 若项目目标设备版本包含或高于**7.x**,则应适配圆形图标.
   
 ## 0x2 通知推送  

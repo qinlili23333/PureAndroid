@@ -1,6 +1,6 @@
 # 纯净 Android 公约 V0.9
   
-#### 公约仍处于初步阶段,欢迎PR提交修改或在Issues提交建议
+#### 公约仍处于初步阶段,欢迎[PR](Pull requests)提交修改或在[Issues](Issues)提交建议
 #### 官方app已更新！  
   
 [申请加入公约](HowToApply.md) | [公约成员](ApprovedList.md) | [Wiki](https://github.com/qinlili23333/PureAndroid/wiki) | [文章列表](article/list.md) | [SDK黑名单](SDKblacklist.md)  

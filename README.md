@@ -1,4 +1,4 @@
-# 纯净 Android 公约 V0.9
+# 纯净 Android 公约 V0.9.1
   
 #### 公约仍处于初步阶段,欢迎[PR](https://github.com/qinlili23333/PureAndroid/pulls)提交修改或在[Issues](https://github.com/qinlili23333/PureAndroid/issues)提交建议
 #### 官方app已更新！  
@@ -44,8 +44,7 @@
 - 5. `manifest`中不得出现重复的权限.
 - 6. `manifest`中不得出现无用权限.
 - 7. `*`在申请权限时,应尽量向用户说明权限用途.
-- 8. 尽可能使用`Shizuku`而不是`ADB`
-- 9. 尽可能使用`Root`而不是`设备管理员`
+- 8. 尽可能使用`Shizuku`而不是`ADB`或`Root`
   
 ## 0x5 文件存储  
 - 1. 对于用户主动直接或间接生成的文件,应使用`FileProvider`而不是直接传递文件 `Uri`.
@@ -85,3 +84,4 @@
 - 3. 支持`Miracast`.
 - 4. 视频支持画中画模式. 
 - 5. 适配深色模式.
+- 6. 至少为`Android P`优化刘海屏
